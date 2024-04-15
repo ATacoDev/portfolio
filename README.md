@@ -1,3 +1,3 @@
 # Website:
 
-`https://atacodev.github.io/portfolio/`
+https://atacodev.github.io/portfolio/

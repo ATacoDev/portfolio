@@ -18,9 +18,9 @@ h2 {
 
 a {
     color: royalblue;
-    font-size: 18px;
 }
 
-.back {
+a[class = back] {
     color: purple;
+    font-size: 20px;
 }

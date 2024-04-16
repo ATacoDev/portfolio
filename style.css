@@ -18,4 +18,9 @@ h2 {
 
 a {
     color: royalblue;
+    font-size: 18px;
+}
+
+.back {
+    color: purple;
 }
